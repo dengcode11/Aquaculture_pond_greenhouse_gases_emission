@@ -22,8 +22,7 @@ omitted.
 | `Scripts/15–16`     | Management combinations and spatial prioritization           |
 | `Scripts/17–18`     | Plots from supplied source data                              |
 
-`Source_Data/FIGURE_DATA_INDEX.csv` gives filenames, panels, units and preparation
-notes. All source-data tables are uncompressed CSV files. Rounding rules and plot-scale definitions are given in `Source_Data/README.md`.
+All source-data tables are uncompressed xls files. Rounding rules and plot-scale definitions are given in `README.md`.
 `Scripts/_shared` contains path handling and shared inventory, Monte Carlo and
 spatial integration functions.
 
